@@ -1,4 +1,3 @@
-// Programa.swift -- atualizado para suportar links web de imagens
 import SwiftUI
 
 struct Programa {
