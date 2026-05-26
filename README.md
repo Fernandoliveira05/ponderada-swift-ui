@@ -71,28 +71,52 @@ O enunciado do trabalho contemplava alguns requisitos de qualidade, porém o gru
 Abaixo estão as imagens do que foi desenvolvido e um vídeo demonstrativo:
 
 ### Tela Principal
-![Tela Principal ](/assets/telaprincipal1.jpeg)
+<p align="center">
+  <b>Título:</b> Tela Principal - Visão Geral<br>
+  <img src="/assets/telaprincipal1.jpeg" width="250" alt="Tela Principal 1"><br>
+  <i>Fonte:</i> Os Autores (2026)
+</p>
 
-![Tela Principal ](/assets/telaprincipal2.jpeg)
-
+<p align="center">
+  <b>Título:</b> Tela Principal - Navegação<br>
+  <img src="/assets/telaprincipal2.jpeg" width="250" alt="Tela Principal 2"><br>
+  <i>Fonte:</i> Os Autores (2026)
+</p>
 
 ### Hora de Aventura
+<p align="center">
+  <b>Título:</b> Detalhes da Série - Hora de Aventura<br>
+  <img src="/assets/telaDetalheHaventura0.jpeg" width="250" alt="Tela Hora de Aventura 1"><br>
+  <i>Fonte:</i> Os Autores (2026)
+</p>
 
-![Tela Hora de Aventura ](/assets/telaDetalheHaventura0.jpeg)
-
-![Tela Hora de Aventura ](/assets/telaDetalheHaventura.jpeg)
-
+<p align="center">
+  <b>Título:</b> Menu de Episódios - Hora de Aventura<br>
+  <img src="/assets/telaDetalheHaventura.jpeg" width="250" alt="Tela Hora de Aventura 2"><br>
+  <i>Fonte:</i> Os Autores (2026)
+</p>
 
 ### The Office
+<p align="center">
+  <b>Título:</b> Detalhes da Série - The Office<br>
+  <img src="/assets/telaDetalheOffice.jpeg" width="250" alt="Tela The Office 1"><br>
+  <i>Fonte:</i> Os Autores (2026)
+</p>
 
-![Tela The Office ](/assets/telaDetalheOffice.jpeg)
+<p align="center">
+  <b>Título:</b> Menu de Episódios - The Office<br>
+  <img src="/assets/telaDetalheOffice1.jpeg" width="250" alt="Tela The Office 2"><br>
+  <i>Fonte:</i> Os Autores (2026)
+</p>
 
-![Tela The Office ](/assets/telaDetalheOffice1.jpeg)
-
-
-## Vídeo demonstrativo - Clique na Imagem!
-
-[![Vídeo youtube ](/assets/telaprincipal1.jpeg)](https://youtube.com/shorts/qYqKQ5p2INU?feature=share)
+### Vídeo demonstrativo - Clique na Imagem!
+<p align="center">
+  <b>Título:</b> Vídeo do Aplicativo de Séries e Filmes<br>
+  <a href="https://youtube.com">
+    <img src="/assets/telaprincipal1.jpeg" width="250" alt="Clique para assistir ao vídeo demonstrativo">
+  </a><br>
+  <i>Fonte:</i> Os Autores (2026)
+</p>
 
 ---
 
