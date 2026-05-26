@@ -160,6 +160,8 @@ Essa sessão visa demonstrar o relatório indivial de cada um dos membros mostra
 
 ### Fernando Soares
 
+Ajudei e participei durante todo o processo da atividade, mas desenvolvi principalmente a lógica do "ir além" na atividade. Fiz a migração e modificação do código para a lógica de uma única `DetailView`, substituindo os arquivos independentes. Também trabalhei para deixar a estilização mais próxima ao wireframe e ajudei na documentação.
+
 ---
 
 ### João Wandermurem
@@ -171,6 +173,10 @@ Minhas principais dificuldade foram em relação a métodos específicos do Swif
 ---
 
 ### Pietra Batista
+
+Fiquei responsável principalmente pela criação dos componentes `ShowCard` e `ListCard`, mas também dei sugestões e propus maneiras diferentes de resolver problemas, como a implementação da lógica de cores dos cards, por exemplo. Também fiquei responsável pela documentação do diário de desenvolvimento.
+
+Minha maior dificuldade foi entender a sintaxe do Swift, como referenciar as coisas e chamar os componentes, por exemplo. Também saber como deixar tudo visualmente organizado, em relação a espaçamento e detalhes de layout para deixar tudo redondinho e bonito.
 
 ---
 
