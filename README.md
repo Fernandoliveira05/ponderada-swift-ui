@@ -112,7 +112,7 @@ Abaixo estão as imagens do que foi desenvolvido e um vídeo demonstrativo:
 ### Vídeo demonstrativo - Clique na Imagem!
 <p align="center">
   <b>Título:</b> Vídeo do Aplicativo de Séries e Filmes<br>
-  <a href="https://youtube.com">
+  <a href="https://youtube.com/shorts/qYqKQ5p2INU?feature=share">
     <img src="/assets/telaprincipal1.jpeg" width="250" alt="Clique para assistir ao vídeo demonstrativo">
   </a><br>
   <i>Fonte:</i> Os Autores (2026)
