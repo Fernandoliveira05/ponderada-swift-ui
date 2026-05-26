@@ -142,6 +142,10 @@ Minhas principais dificuldade foram em relação a métodos específicos do Swif
 
 ### Roberto Diniz
 
+Ajudei pensando e discutindo sobre como funcionaria a lógica de modularidade e reutilização de componentes de acordo com o modelo de dados de entrada proposto. Também auxiliei nas dificuldades e problemas relacionados à criação da estrutura dos cards e da tela de detalhes.
+
+Além disso, tive mais dificuldade em entender como funciona a sintaxe de passagem de parâmetros e valores para uma `struct`.
+
 ---
 
 ## Conclusão
