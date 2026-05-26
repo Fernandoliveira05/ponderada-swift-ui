@@ -12,7 +12,6 @@ struct Programa {
     let temporadas: Int
     let avaliacao: Double  // 0.0 - 5.0
     let status: String     // "Em exibicao" | "Concluido"
-    // ATUALIZADO: Tupla agora aceita também um link de imagem para o personagem
     let personagens: [(nome: String, papel: String, emoji: String, imagemUrl: String)]
     
     var tipoo: TipoPrograma {
