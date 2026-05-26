@@ -16,6 +16,40 @@ Resumidamente, o projeto consiste em uma tela principal que contém uma lista de
 - Roberto Diniz
 
 ---
+## Diário de Desenvolvimento 
+
+Criamos este diário de desenvolvimento para relatar nosso processo de desenvolvimento da atividade, do início ao fim. Conforme avançávamos nas tasks, seja quando tínhamos dúvidas, dificuldades ou decisões interessantes, a gente anotava e registrava aqui.
+
+**Objetivo:** Implementar 4 telas com SwiftUI. Uma tela de listagem com cards e telas de detalhamento para cada card com scroll.
+
+- Lemos o documento e entendemos o que tínhamos que fazer.
+- Começamos o desenvolvimento criando a estrutura de pastas esperada para a atividade.
+- Optamos por seguir as dicas do Murilo e começar pela criação dos componentes: `ShowCard`, `InfoBadge` e `CharacterRow`.
+- Passamos a maior parte da instrução nessa etapa. Tivemos dificuldades em relação à maneira como os componentes e estruturas são referenciados no SwiftUI, além de detalhes como margem, espaçamento e definição de características visuais dos componentes.
+- Queríamos ir além e tentar implementar uma única `DetailView` genérica, mas de início não conseguimos terminar a tempo. Fizemos o teste apenas com a view do *Naruto*.
+- A primeira versão da `DetailView` do *Naruto* estava funcional, mas visualmente feia e com os componentes desalinhados.
+- Colocamos energia em melhorar a aparência e tornar o layout mais próximo ao wireframe.
+- Quando acertamos a `DetailView` do *Naruto*, percebemos que a estrutura poderia ser reutilizada para todos os outros programas presentes no model.
+- Decidimos ir além: adaptamos o código da `DetailView` para que todos os programas fossem renderizados dinamicamente, a partir de uma única view, tirando os arquivos independentes.
+- Para isso, criamos em `Model` uma tupla com as variáveis dos programas. A partir desse momento, bastou importar a variável global de programas para que a view fosse genérica.
+- Passamos a prestar atenção nos detalhes visuais (cor, margem, fonte, sombra) de acordo com as especificações do documento da atividade.
+- Satisfeitos com o resultado, adicionamos mais programas ao model. Para isso, usamos IA generativa para criar as descrições e informações no mesmo padrão dos outros.
+- Nosso orientador Murilo nos desafiou: trocar os emojis por imagens reais de cada programa. Aceitamos o desafio hehe.
+- Pesquisamos na internet (dos tempos antigos tipo Google, não com IA) como implementar isso no SwiftUI e encontramos exemplos úteis.
+- Implementamos adicionando a URL da imagem respectiva para cada item presente na lista de programas.
+- **Finalizamos com alegria e conhecimento!**
+
+### Uso de IA Generativa
+
+O maior foco da atividade foi desenvolver sem utilizar Gen AI, porém em alguns momentos nós sentimos que o auxílio dela poderia ser útil para o nosso aprendizado e otimização de tempo, como nas situações abaixo:
+
+- Como adicionar uma variável de gênero na struct `Programa` para definir a cor dos cards dinamicamente.
+- Detalhes de como construir componentes específicos, como o `Rectangle()`.
+- Geração de descrições e informações dos programas adicionados ao model, seguindo o padrão já estabelecido.
+
+> [!NOTE]
+> Esse formato de diário, apesar de espontâneo, pode parecer um pouco desorganizado e não tão detalhado. Por isso, a seguir, detalhamos de forma mais organizada todo o processo de desenvolvimento da atividade.
+---
 
 ## Planejamento do Trabalho
 
